@@ -1,2 +1,2 @@
 # algorithm-with-python
-share some simple algorithm with python for learning~
+share some simple algorithms by python for learning~
